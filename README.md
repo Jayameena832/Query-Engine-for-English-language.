@@ -33,8 +33,6 @@ Link Deliverables:
 }
 
 
-**Request:**
-```json
 {
   "query": "Find products in the 'Beauty & Hygiene' category"
 }
